@@ -1,4 +1,4 @@
-## codemix-vanilla-typescript
+## codemix-vanilla-python
 
 Template for project creation of Python inside CodeMix
 
